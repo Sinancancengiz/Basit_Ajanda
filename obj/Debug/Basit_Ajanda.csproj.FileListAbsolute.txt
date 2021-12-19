@@ -1,0 +1,11 @@
+C:\Users\sinan\Downloads\Basit_Ajanda-main\Basit_Ajanda-main\Basit_Ajanda\bin\Debug\Basit_Ajanda.exe
+C:\Users\sinan\Downloads\Basit_Ajanda-main\Basit_Ajanda-main\Basit_Ajanda\bin\Debug\Basit_Ajanda.pdb
+C:\Users\sinan\Downloads\Basit_Ajanda-main\Basit_Ajanda-main\Basit_Ajanda\obj\Debug\Basit_Ajanda.csproj.AssemblyReference.cache
+C:\Users\sinan\Downloads\Basit_Ajanda-main\Basit_Ajanda-main\Basit_Ajanda\obj\Debug\Basit_Ajanda.Anaform.resources
+C:\Users\sinan\Downloads\Basit_Ajanda-main\Basit_Ajanda-main\Basit_Ajanda\obj\Debug\Basit_Ajanda.NotGoster.resources
+C:\Users\sinan\Downloads\Basit_Ajanda-main\Basit_Ajanda-main\Basit_Ajanda\obj\Debug\Basit_Ajanda.Not_Ekle.resources
+C:\Users\sinan\Downloads\Basit_Ajanda-main\Basit_Ajanda-main\Basit_Ajanda\obj\Debug\Basit_Ajanda.Properties.Resources.resources
+C:\Users\sinan\Downloads\Basit_Ajanda-main\Basit_Ajanda-main\Basit_Ajanda\obj\Debug\Basit_Ajanda.csproj.GenerateResource.cache
+C:\Users\sinan\Downloads\Basit_Ajanda-main\Basit_Ajanda-main\Basit_Ajanda\obj\Debug\Basit_Ajanda.csproj.CoreCompileInputs.cache
+C:\Users\sinan\Downloads\Basit_Ajanda-main\Basit_Ajanda-main\Basit_Ajanda\obj\Debug\Basit_Ajanda.exe
+C:\Users\sinan\Downloads\Basit_Ajanda-main\Basit_Ajanda-main\Basit_Ajanda\obj\Debug\Basit_Ajanda.pdb
